@@ -1,0 +1,11 @@
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\bin\Debug\books\alice in wonderland.txt
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\bin\Debug\books\pride and prejudice.txt
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\bin\Debug\books\sherlock holmes.txt
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\bin\Debug\Customers.xml
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\bin\Debug\DebuggingDemo.exe.config
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\bin\Debug\DebuggingDemo.exe
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\bin\Debug\DebuggingDemo.pdb
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\obj\x86\Debug\DebuggingDemo.csprojAssemblyReference.cache
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\obj\x86\Debug\DebuggingDemo.csproj.CoreCompileInputs.cache
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\obj\x86\Debug\DebuggingDemo.exe
+C:\Users\lipenade.NORTHAMERICA.000\OneDrive - Microsoft\AutoNation_Workshop\Content\Day1\1. Debugging Overview\Demo\obj\x86\Debug\DebuggingDemo.pdb
